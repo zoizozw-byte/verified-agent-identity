@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: "Agent name"
+        description: "nicezoi"
         required: true
         default: "nicezoi"
       agent_description:
-        description: "Agent description"
+        description: "nicezoi"
         required: true
         default: "nicezoi AI Agent"
 
